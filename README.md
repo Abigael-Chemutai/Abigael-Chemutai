@@ -1,16 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Abigael Chemutai</h1>
-<h3 align="center">A passionate Mobile App developer from Kenya</h3>
+<h3 align="center">Currect Mehatronics Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abigael-chemutai&label=Profile%20views&color=0e75b6&style=flat" alt="abigael-chemutai" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Smart Gas meter**
+- 🔭 I’m currently working on **School**
 
 - 💬 Ask me about **API and Frameworks**
-
-- 📫 How to reach me **abbiechemutai01@gmail.com**
 
 - ⚡ Fun fact **I love God**
 
