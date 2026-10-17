@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abigael Chemutai</h1>
-<h3 align="center">Currect Mehatronics Engineering student</h3>
+<h3 align="center">Currect Mechatronics Engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abigael-chemutai&label=Profile%20views&color=0e75b6&style=flat" alt="abigael-chemutai" /> </p>
 
